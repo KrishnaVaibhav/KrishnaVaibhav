@@ -1,7 +1,7 @@
 # Cloud Infrastructure & DevOps Engineer
 
 <div align="center">
-  <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=KrishnaVaibhav&backgroundColor=random&scale=120" alt="Krishna Vaibhav - 3D Avatar" width="200" height="200" style="border-radius: 50%; border: 3px solid #00d4ff;"/>
+  <img src="DP.jpeg" alt="Krishna Vaibhav - DevOps Engineer Avatar" width="200" height="200"/>
 
   ### Senior Cloud & DevOps Engineer
 </div>
@@ -154,7 +154,7 @@ $ whoami
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=KrishnaVaibhav&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=KrishnaVaibhav&theme=shadow_green&hide_border=false" alt="GitHub Streak"/></td>
+    <td><img src="https://github-readme-streak-stats-wheat.vercel.app?user=KrishnaVaibhav&theme=github-dark&hide_border=true" alt="GitHub Streak"/></td>
   </tr>
 </table>
 
@@ -300,6 +300,6 @@ Explore my repositories for infrastructure automation, containerization guides, 
 
 [![](https://visitcount.itsvg.in/api?id=KrishnaVaibhav&icon=10&color=13)](https://visitcount.itsvg.in)
 
-**Last Updated:** 2025 | Built with ❤️ for DevOps Excellence
+**Last Updated:** 2026 | Built with ❤️ for Excellence
 
 </div>
