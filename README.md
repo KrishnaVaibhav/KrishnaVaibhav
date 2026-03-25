@@ -173,10 +173,20 @@ $ whoami
 
 ---
 
-## 💬 Tech Philosophy & Daily Wisdom
+## � Security & Best Practices
 
-### Cloud & Hacking Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**Zero-Trust Architecture** • Defense in Depth • Least Privilege Access  
+**Vulnerability Management** • Compliance & Auditing • Secrets Rotation  
+**Infrastructure Hardening** • Network Segmentation • Encryption @ Rest & Transit
+
+---
+
+## 🚨 Incident Response & SRE
+
+**High Availability Design** • Monitoring & Observability • Proactive Alerting  
+**Incident Management** • Root Cause Analysis • Post-Mortems & Learning  
+**Disaster Recovery** • Failover Automation • Resilience Testing & Drills  
+**Performance Optimization** • System Reliability • Cost Efficiency at Scale
 
 ---
 
