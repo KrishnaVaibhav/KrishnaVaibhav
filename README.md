@@ -1,7 +1,7 @@
 # Cloud Infrastructure & Engineer
 
 <div align="center">
-  <img src="DP.jpeg" alt="Krishna Vaibhav - DevOps Engineer Avatar" width="350" height="160" style="object-fit: contain;"/>
+  <img src="DP.jpeg" alt="Krishna Vaibhav - DevOps Engineer Avatar"style="object-fit: contain;"/>
 
   ### Cloud & DevOps Engineer
 </div>
