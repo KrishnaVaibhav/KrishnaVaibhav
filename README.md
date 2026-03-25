@@ -173,27 +173,10 @@ $ whoami
 
 ---
 
-## � Security & Best Practices
-
-**Zero-Trust Architecture** • Defense in Depth • Least Privilege Access  
-**Vulnerability Management** • Compliance & Auditing • Secrets Rotation  
-**Infrastructure Hardening** • Network Segmentation • Encryption @ Rest & Transit
-
----
-
-## 🚨 Incident Response & SRE
-
-**High Availability Design** • Monitoring & Observability • Proactive Alerting  
-**Incident Management** • Root Cause Analysis • Post-Mortems & Learning  
-**Disaster Recovery** • Failover Automation • Resilience Testing & Drills  
-**Performance Optimization** • System Reliability • Cost Efficiency at Scale
-
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=KrishnaVaibhav&icon=10&color=13)](https://visitcount.itsvg.in)
 
-**Last Updated:** 2026 | Built with ❤️ for Excellence
+**Last Updated:** 2026 | Built with 🔥 for Excellence
 
 </div>
