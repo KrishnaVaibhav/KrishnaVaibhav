@@ -96,6 +96,16 @@ $ whoami
       <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <b style="font-size: 14px;">🤖 Machine Learning & Data Science</b><br/><br/>
+      <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50"/></a>
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/></a>
+      <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/></a>
+      <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"/></a>
+      <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="50" height="50"/></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -151,42 +161,6 @@ $ whoami
 
 ---
 
-## 🌐 Tech Stack by Category
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  CLOUD PLATFORMS          CONTAINER & ORCHESTRATION  LANGUAGES │
-│  ├─ AWS                   ├─ Docker                  ├─ Go     │
-│  ├─ Azure                 ├─ Kubernetes              ├─ Python │
-│  └─ GCP                   └─ Helm                    └─ Bash   │
-│                                                                 │
-│  INFRASTRUCTURE AS CODE   CI/CD PIPELINES            DATABASES │
-│  ├─ Terraform             ├─ Jenkins                 ├─ PostgreSQL│
-│  └─ Ansible               ├─ GitLab CI/CD            ├─ Redis  │
-│                           ├─ GitHub Actions          └─ MongoDB│
-│                           └─ ArgoCD                            │
-│                                                                 │
-│  OBSERVABILITY & MONITORING        INFRASTRUCTURE             │
-│  ├─ Prometheus                     ├─ Linux/Unix             │
-│  ├─ Grafana                        ├─ NGINX                  │
-│  ├─ ELK Stack                      └─ Apache                 │
-│  └─ Datadog                                                   │
-│                                                                 │
-│  MACHINE LEARNING & DATA SCIENCE                               │
-│  ├─ Scikit-learn                                              │
-│  ├─ TensorFlow                                                │
-│  ├─ PyTorch                                                   │
-│  ├─ Pandas & NumPy                                            │
-│  ├─ XGBoost                                                   │
-│  ├─ SMOTE & Random Forest                                     │
-│  └─ Regression & Keras                                        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 📚 Certifications & Credentials
 
 <div align="center">
@@ -200,9 +174,6 @@ $ whoami
 ---
 
 ## 💬 Tech Philosophy & Daily Wisdom
-
-### Developer's Creed
-![](https://api.github.com/zen)
 
 ### Cloud & Hacking Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
