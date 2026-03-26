@@ -112,32 +112,13 @@ $ whoami
 
 ## 📊 GitHub Analytics & Activity
 
-<table>
-  <tr>
-    <td align="center"><strong>Overall Stats</strong></td>
-    <td align="center"><strong>Contribution Streak</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-    
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaVaibhav&theme=default)
-    
-    </td>
-    <td align="center">
-    
-![GitHub Streak](https://github-readme-streak-stats-wheat.vercel.app?user=KrishnaVaibhav&theme=github-dark&hide_border=true)
-    
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-### 🗣️ Language Distribution
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVaibhav&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 📈 Contribution Graph
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaVaibhav&theme=dark)](https://github.com/KrishnaVaibhav)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=KrishnaVaibhav&theme=github-dark&hide_border=true&area=true)
+
+</div>
 
 ---
 
