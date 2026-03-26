@@ -112,22 +112,24 @@ $ whoami
 
 ## 📊 GitHub Analytics & Activity
 
-<div align="center">
-
-![GitHub Followers](https://img.shields.io/github/followers/KrishnaVaibhav?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/KrishnaVaibhav?style=social)
-
-**Profile**: ![](https://komarev.com/ghpvc/?username=KrishnaVaibhav&style=flat-square&color=blue)
-
-</div>
+<table>
+  <tr>
+    <td align="center"><strong>Overall Stats</strong></td>
+    <td align="center"><strong>Contribution Streak</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/KrishnaVaibhav"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KrishnaVaibhav&show_icons=true&theme=radical" width="100%"/></a></td>
+    <td><img src="https://github-readme-streak-stats-wheat.vercel.app?user=KrishnaVaibhav&theme=github-dark&hide_border=true" alt="GitHub Streak"/></td>
+  </tr>
+</table>
 
 ### 🗣️ Language Distribution
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVaibhav&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVaibhav&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 📈 Contribution Graph
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=KrishnaVaibhav&theme=github-dark&hide_border=true)](https://github.com/KrishnaVaibhav)
+![](https://github-readme-activity-graph.vercel.app/graph?username=KrishnaVaibhav&theme=github-dark&hide_border=true&area=true)
 
 ---
 
