@@ -118,8 +118,16 @@ $ whoami
     <td align="center"><strong>Contribution Streak</strong></td>
   </tr>
   <tr>
-    <td align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KrishnaVaibhav&count_private=true&include_all_commits=true" loading="lazy" style="max-width:100%; height:auto;"/></td>
-    <td><img src="https://github-readme-streak-stats-wheat.vercel.app?user=KrishnaVaibhav&theme=github-dark&hide_border=true" alt="GitHub Streak"/></td>
+    <td align="center">
+    
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaVaibhav&theme=default)
+    
+    </td>
+    <td align="center">
+    
+![GitHub Streak](https://github-readme-streak-stats-wheat.vercel.app?user=KrishnaVaibhav&theme=github-dark&hide_border=true)
+    
+    </td>
   </tr>
 </table>
 
