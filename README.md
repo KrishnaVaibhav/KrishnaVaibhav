@@ -63,7 +63,6 @@ $ whoami
   <tr>
     <td align="center">
       <b style="font-size: 14px;">📝 Infrastructure as Code</b><br/><br/>
-      <a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/></a>
       <a href="https://www.ansible.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50"/></a>
     </td>
     <td align="center">
