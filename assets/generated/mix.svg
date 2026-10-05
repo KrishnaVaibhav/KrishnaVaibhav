@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 200" width="495" height="200" role="img" aria-label="Contribution mix, last 12 months: Commits 298, Pull requests 6, Code reviews 9, Issues 0, Repos created 13, Private 153">
+<title>Contribution mix, last 12 months: Commits 298, Pull requests 6, Code reviews 9, Issues 0, Repos created 13, Private 153</title>
+<defs>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b7cf6" stop-opacity=".55"/><stop offset=".5" stop-color="#24304f"/><stop offset="1" stop-color="#5eead4" stop-opacity=".55"/></linearGradient>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8b7cf6" stop-opacity=".45"/><stop offset="1" stop-color="#8b7cf6" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @keyframes growY { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+  @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+  .rise { animation: rise .7s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left; animation: grow 1s cubic-bezier(.2,.8,.2,1) both; }
+  .growY { transform-box: fill-box; transform-origin: bottom; animation: growY .9s cubic-bezier(.2,.8,.2,1) both; }
+  .draw { stroke-dasharray: 1; animation: draw 2.2s ease-in-out both; }
+  .fade { animation: fade 1.2s ease-out both; }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="1" y="1" width="493" height="198" rx="14" fill="#0b1022" stroke="url(#edge)" stroke-width="1.5"/>
+<circle class="pulse" cx="26" cy="31" r="4" fill="#5eead4"/>
+<text x="38" y="36" font-size="14" font-weight="700" fill="#e6edf3">activity --mix --1y</text>
+<text class="rise" style="animation-delay:0.10s" x="24" y="75.0" font-size="12.5" fill="#8fa3c7">Commits</text><rect class="grow" style="animation-delay:0.20s" x="140" y="66.0" width="250.0" height="11" rx="4" fill="#8b7cf6"/><text class="fade" style="animation-delay:0.80s" x="398.0" y="75.5" font-size="12.5" font-weight="700" fill="#e6edf3">298</text><text class="rise" style="animation-delay:0.18s" x="24" y="96.33333333333333" font-size="12.5" fill="#8fa3c7">Pull requests</text><rect class="grow" style="animation-delay:0.28s" x="140" y="87.33333333333333" width="5.0" height="11" rx="4" fill="#8b7cf6"/><text class="fade" style="animation-delay:0.88s" x="153.0" y="96.83333333333333" font-size="12.5" font-weight="700" fill="#e6edf3">6</text><text class="rise" style="animation-delay:0.26s" x="24" y="117.66666666666666" font-size="12.5" fill="#8fa3c7">Code reviews</text><rect class="grow" style="animation-delay:0.36s" x="140" y="108.66666666666666" width="7.6" height="11" rx="4" fill="#8b7cf6"/><text class="fade" style="animation-delay:0.96s" x="155.6" y="118.16666666666666" font-size="12.5" font-weight="700" fill="#e6edf3">9</text><text class="rise" style="animation-delay:0.34s" x="24" y="139.0" font-size="12.5" fill="#8fa3c7">Issues</text><rect class="grow" style="animation-delay:0.44s" x="140" y="130.0" width="3.0" height="11" rx="4" fill="#8b7cf6"/><text class="fade" style="animation-delay:1.04s" x="151.0" y="139.5" font-size="12.5" font-weight="700" fill="#e6edf3">0</text><text class="rise" style="animation-delay:0.42s" x="24" y="160.33333333333331" font-size="12.5" fill="#8fa3c7">Repos created</text><rect class="grow" style="animation-delay:0.52s" x="140" y="151.33333333333331" width="10.9" height="11" rx="4" fill="#8b7cf6"/><text class="fade" style="animation-delay:1.12s" x="158.9" y="160.83333333333331" font-size="12.5" font-weight="700" fill="#e6edf3">13</text><text class="rise" style="animation-delay:0.50s" x="24" y="181.66666666666666" font-size="12.5" fill="#8fa3c7">Private</text><rect class="grow" style="animation-delay:0.60s" x="140" y="172.66666666666666" width="128.4" height="11" rx="4" fill="#8b7cf6"/><text class="fade" style="animation-delay:1.20s" x="276.4" y="182.16666666666666" font-size="12.5" font-weight="700" fill="#e6edf3">153</text>
+</svg>

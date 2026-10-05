@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 160" width="1024" height="160" role="img" aria-label="Thanks for visiting">
+<defs>
+  <linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#8b7cf6"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+</defs>
+<style>
+  @keyframes slide { from { transform:translateX(0) } to { transform:translateX(-1024px) } }
+  .a { animation:slide 12s linear infinite }
+  .b { animation:slide 18s linear infinite reverse }
+  @keyframes fade { 0%,100% { opacity:.65 } 50% { opacity:1 } }
+  .t { animation:fade 4s ease-in-out infinite }
+  @media (prefers-reduced-motion: reduce) { * { animation:none !important } }
+</style>
+<path class="b" d="M0,101.3 L32,102.0 L64,101.2 L96,98.9 L128,95.6 L160,91.8 L192,88.0 L224,84.8 L256,82.7 L288,82.0 L320,82.8 L352,85.1 L384,88.4 L416,92.2 L448,96.0 L480,99.2 L512,101.3 L544,102.0 L576,101.2 L608,98.9 L640,95.6 L672,91.8 L704,88.0 L736,84.8 L768,82.7 L800,82.0 L832,82.8 L864,85.1 L896,88.4 L928,92.2 L960,96.0 L992,99.2 L1024,101.3 L1056,102.0 L1088,101.2 L1120,98.9 L1152,95.6 L1184,91.8 L1216,88.0 L1248,84.8 L1280,82.7 L1312,82.0 L1344,82.8 L1376,85.1 L1408,88.4 L1440,92.2 L1472,96.0 L1504,99.2 L1536,101.3 L1568,102.0 L1600,101.2 L1632,98.9 L1664,95.6 L1696,91.8 L1728,88.0 L1760,84.8 L1792,82.7 L1824,82.0 L1856,82.8 L1888,85.1 L1920,88.4 L1952,92.2 L1984,96.0 L2016,99.2 L2048,101.3 L2048,160 L0,160 Z" fill="url(#w)" opacity=".35"/>
+<path class="a" d="M0,104.0 L32,108.6 L64,112.5 L96,115.1 L128,116.0 L160,115.1 L192,112.5 L224,108.6 L256,104.0 L288,99.4 L320,95.5 L352,92.9 L384,92.0 L416,92.9 L448,95.5 L480,99.4 L512,104.0 L544,108.6 L576,112.5 L608,115.1 L640,116.0 L672,115.1 L704,112.5 L736,108.6 L768,104.0 L800,99.4 L832,95.5 L864,92.9 L896,92.0 L928,92.9 L960,95.5 L992,99.4 L1024,104.0 L1056,108.6 L1088,112.5 L1120,115.1 L1152,116.0 L1184,115.1 L1216,112.5 L1248,108.6 L1280,104.0 L1312,99.4 L1344,95.5 L1376,92.9 L1408,92.0 L1440,92.9 L1472,95.5 L1504,99.4 L1536,104.0 L1568,108.6 L1600,112.5 L1632,115.1 L1664,116.0 L1696,115.1 L1728,112.5 L1760,108.6 L1792,104.0 L1824,99.4 L1856,95.5 L1888,92.9 L1920,92.0 L1952,92.9 L1984,95.5 L2016,99.4 L2048,104.0 L2048,160 L0,160 Z" fill="url(#w)" opacity=".85"/>
+<text class="t" x="512" y="50" text-anchor="middle" font-size="16" fill="#8fa3c7" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace">$ exit  # thanks for stopping by — let's build something resilient</text>
+</svg>
