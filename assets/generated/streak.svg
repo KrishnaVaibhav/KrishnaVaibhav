@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 200" width="495" height="200" role="img" aria-label="Contribution streaks: current 2 days, longest 8 days">
+<title>Contribution streaks: current 2 days, longest 8 days</title>
+<defs>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b7cf6" stop-opacity=".55"/><stop offset=".5" stop-color="#24304f"/><stop offset="1" stop-color="#5eead4" stop-opacity=".55"/></linearGradient>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8b7cf6" stop-opacity=".45"/><stop offset="1" stop-color="#8b7cf6" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @keyframes growY { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+  @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+  .rise { animation: rise .7s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left; animation: grow 1s cubic-bezier(.2,.8,.2,1) both; }
+  .growY { transform-box: fill-box; transform-origin: bottom; animation: growY .9s cubic-bezier(.2,.8,.2,1) both; }
+  .draw { stroke-dasharray: 1; animation: draw 2.2s ease-in-out both; }
+  .fade { animation: fade 1.2s ease-out both; }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="1" y="1" width="493" height="198" rx="14" fill="#0b1022" stroke="url(#edge)" stroke-width="1.5"/>
+<circle class="pulse" cx="26" cy="31" r="4" fill="#5eead4"/>
+<text x="38" y="36" font-size="14" font-weight="700" fill="#e6edf3">git streak --days</text>
+
+<g class="rise" style="animation-delay:0.10s">
+  <text x="85" y="110" font-size="30" font-weight="800" fill="#e6edf3" text-anchor="middle">666</text>
+  <text x="85" y="134" font-size="12" fill="#8fa3c7" text-anchor="middle">Total contributions</text>
+  <text x="85" y="154" font-size="10.5" fill="#5b6a8c" text-anchor="middle">since Jan 2020</text>
+</g>
+<line x1="170" y1="70" x2="170" y2="170" stroke="#1b2542"/>
+<line x1="325" y1="70" x2="325" y2="170" stroke="#1b2542"/>
+<g class="rise" style="animation-delay:0.18s">
+  <circle cx="247.5" cy="106" r="42" fill="none" stroke="#1b2542" stroke-width="6"/>
+  <circle cx="247.5" cy="106" r="42" fill="none" stroke="#5eead4" stroke-width="6" stroke-linecap="round"
+          transform="rotate(-90 247.5 106)" stroke-dasharray="263.9" stroke-dashoffset="197.9"
+          style="animation: ring 1.4s .3s cubic-bezier(.2,.8,.2,1) both"/>
+  <style>@keyframes ring { from { stroke-dashoffset: 263.9; } }</style>
+  <text x="247.5" y="115" font-size="28" font-weight="800" fill="#e6edf3" text-anchor="middle">2</text>
+  <text x="247.5" y="168" font-size="12" font-weight="700" fill="#5eead4" text-anchor="middle">Current streak</text>
+  <text x="247.5" y="186" font-size="10.5" fill="#5b6a8c" text-anchor="middle">Oct 3 – Oct 4, 2026</text>
+</g>
+<g class="rise" style="animation-delay:0.26s">
+  <text x="410" y="110" font-size="30" font-weight="800" fill="#e6edf3" text-anchor="middle">8</text>
+  <text x="410" y="134" font-size="12" fill="#8fa3c7" text-anchor="middle">Longest streak</text>
+  <text x="410" y="154" font-size="10.5" fill="#5b6a8c" text-anchor="middle">Nov 24 – Dec 1, 2020</text>
+</g>
+</svg>

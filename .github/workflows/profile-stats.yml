@@ -1,0 +1,49 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - .github/3d-contrib.json
+      - .github/workflows/profile-stats.yml
+
+permissions:
+  contents: write
+
+concurrency: profile-stats
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      # Optional: add a STATS_TOKEN secret (classic PAT, read:user + repo) to include private activity.
+      GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate stats cards
+        run: python scripts/generate_stats.py
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/3d-contrib.json
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated profile-3d-contrib
+          git diff --cached --quiet || { git commit -m "chore: refresh profile stats"; git push; }
