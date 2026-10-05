@@ -22,7 +22,7 @@
   <tr>
     <td width="33%" valign="top"><h3>🏗️ Design</h3>Scalable, resilient cloud architecture across AWS, Azure &amp; GCP.</td>
     <td width="33%" valign="top"><h3>🐳 Orchestrate</h3>Containerized workloads at scale with Kubernetes &amp; Helm.</td>
-    <td width="33%" valign="top"><h3>📝 Codify</h3>Everything as code with Terraform &amp; Ansible — no snowflake servers.</td>
+    <td width="33%" valign="top"><h3>📝 Codify</h3>Everything as code with Terraform, CloudFormation &amp; Ansible — no snowflake servers.</td>
   </tr>
   <tr>
     <td valign="top"><h3>🔄 Automate</h3>CI/CD pipelines that make shipping boring (in the best way).</td>
@@ -36,11 +36,11 @@
 <table>
   <tr><td><b>☁️ Cloud</b></td><td><img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="AWS, Azure, GCP"/></td></tr>
   <tr><td><b>🐳 Containers</b></td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker, Kubernetes"/></td></tr>
-  <tr><td><b>📝 IaC</b></td><td><img src="https://skillicons.dev/icons?i=terraform,ansible" alt="Terraform, Ansible"/></td></tr>
+  <tr><td><b>📝 IaC</b></td><td><img src="https://skillicons.dev/icons?i=terraform,ansible" alt="Terraform, Ansible"/><img src="assets/icons/cloudformation.svg" alt="AWS CloudFormation"/></td></tr>
   <tr><td><b>🔄 CI/CD</b></td><td><img src="https://skillicons.dev/icons?i=jenkins,gitlab,github,githubactions,git" alt="Jenkins, GitLab, GitHub, GitHub Actions, Git"/></td></tr>
   <tr><td><b>🐍 Languages</b></td><td><img src="https://skillicons.dev/icons?i=go,python,bash" alt="Go, Python, Bash"/></td></tr>
   <tr><td><b>📊 Observability</b></td><td><img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" alt="Prometheus, Grafana, Elasticsearch"/></td></tr>
-  <tr><td><b>🗄️ Data</b></td><td><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" alt="PostgreSQL, Redis, MongoDB"/></td></tr>
+  <tr><td><b>🗄️ Data &amp; Streaming</b></td><td><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,kafka" alt="PostgreSQL, Redis, MongoDB, Kafka"/></td></tr>
   <tr><td><b>🖥️ Infra</b></td><td><img src="https://skillicons.dev/icons?i=linux,nginx" alt="Linux, Nginx"/></td></tr>
   <tr><td><b>🤖 ML</b></td><td><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="scikit-learn, TensorFlow, PyTorch"/></td></tr>
 </table>
